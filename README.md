@@ -1,2 +1,2 @@
-# APHP
+# PHP
 Online Exams with CodeIgniter
